@@ -22,9 +22,9 @@ Click the picture to watch the video
 
 | Video | Description |
 |---|---|
-| <a href="https://www.youtube.com/watch?v=VIDEO_ID_1"><img src="https://img.youtube.com/vi/VIDEO_ID_1/maxresdefault.jpg" width="200"></a> | Disturbance rejection & 60° pitch safety lock |
-| <a href="https://www.youtube.com/watch?v=VIDEO_ID_2"><img src="https://img.youtube.com/vi/VIDEO_ID_2/maxresdefault.jpg" width="200"></a> | Agile movement demonstration |
-| <a href="https://www.youtube.com/watch?v=VIDEO_ID_3"><img src="https://img.youtube.com/vi/VIDEO_ID_3/maxresdefault.jpg" width="200"></a> | Climbing down stairs |
+| <a href="https://www.youtube.com/watch?v=OE3B0-bYBvg"><img src="https://img.youtube.com/vi/OE3B0-bYBvg/maxresdefault.jpg" width="200"></a> | Disturbance rejection & 60° pitch safety lock |
+| <a href="https://www.youtube.com/watch?v=u2cGbBK3M_4"><img src="https://img.youtube.com/vi/u2cGbBK3M_4/maxresdefault.jpg" width="200"></a> | Agile movement demonstration |
+| <a href="https://www.youtube.com/watch?v=dZx9JSyCDTw"><img src="https://img.youtube.com/vi/dZx9JSyCDTw/maxresdefault.jpg" width="200"></a> | Climbing down stairs |
 
 ---
 
